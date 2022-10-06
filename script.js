@@ -90,3 +90,5 @@ document
 document
   .querySelector(".restart-button")
   .addEventListener("click", handleRestartGame);
+
+  console.log('test')
